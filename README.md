@@ -1,7 +1,7 @@
 ### Hi there,I'm IronmanJay 👋
-| LeetCode  |CSDN | Shimo-LeetCode |
-| ----  | --- | --- |
-|&nbsp;&nbsp;[ClickMe](https://leetcode-cn.com/u/ironmanjay/)|[ClickMe](https://me.csdn.net/IronmanJay)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ClickMe](https://shimo.im/mindmaps/T3GHVChYRYQC8g9c/)|
+||CSDN |
+| ---- |
+|[ClickMe](https://blog.csdn.net/qq_44635691)|
 
 ### Languages and Tools :bulb:
 <p>  
@@ -35,54 +35,12 @@
 </p>
 
 ### Github State :sunny:
-[![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=IronmanJay)](https://github.com/IronmanJay/github-readme-stats)
+[![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=guodalongplus)](https://github.com/guodalongplus/github-readme-stats)
 
 ### Github Repository :octocat:
 <a href="https://github.com/IronmanJay/UserBehaviorAnalysis">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=UserBehaviorAnalysis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/IronmanJay/DailyFresh">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=DailyFresh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
 
-<a href="https://github.com/IronmanJay/MovieRecommendSystem">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=MovieRecommendSystem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/E-CommerceWarehouse">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=E-CommerceWarehouse&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/TelecomCustomerService">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=TelecomCustomerService&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/ECommerceRecommendSystem">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=ECommerceRecommendSystem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/Java_Project">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=Java_Project&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/LeetCode">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=LeetCode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/Python_Project">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=Python_Project&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/C_Code">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=C_Code&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/Scala_Project">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=Scala_Project&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/IronmanJay/DesignPattern">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IronmanJay&repo=DesignPattern&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
 
